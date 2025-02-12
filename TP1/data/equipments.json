@@ -1,0 +1,25 @@
+{
+	"organization": {
+		"name": "Blabla Inc.",
+		"sites": [
+			{
+				"name": "Naves",
+				"workshops": [
+					{"name": "Préparation", "machines": ["NP1"]},
+					{"name": "Usinage", "machines": ["NU1", "NU2", "NU3"]},
+					{"name": "Assemblage", "machines": ["NA1", "NA2"]}
+				]
+			},
+			{
+				"name": "Villemomble",
+				"workshops": [
+					{"name": "Préparation", "machines": ["VP1", "VP2"]},
+					{"name": "Usinage", "machines": ["VU1", "VU2"]},
+					{"name": "Four", "machines": ["VF1"]},
+					{"name": "Assemblage", "machines": ["VA1", "VA2"]},
+					{"name": "Métrologie", "machines": ["VM1"]}
+				]
+			}
+		]
+	}
+}

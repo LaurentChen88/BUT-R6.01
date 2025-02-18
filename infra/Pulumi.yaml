@@ -1,0 +1,10 @@
+name: but-tp-infra
+description: TP infra
+runtime:
+  name: python
+  options:
+    toolchain: poetry
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: gcp-python

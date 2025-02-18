@@ -1,0 +1,302 @@
+song_id;artist;title;duration
+1;Riot Resonance;Night Skies' Melodies: Sonic Stardust - Starry-Eyed;128
+2;Plasma Pioneers;Serenade for Outcasts: Synthetic Sunset Symphony;235
+3;Sonic Scaffold;Bella fetched a stick, daydreaming about interstellar travel.;449
+4;Frequency Frenzy;Neon Nightmare Ballad: Electric Lullaby - Amped Nap;435
+5;Galactic Ghosts;Astral Aftermath Symphony: Quantum Quake Revelry - Quirky Quanta;179
+6;Sonic Synthesis;Chloe dug a hole in the sand, contemplating the principles of democracy.;263
+7;Synthwave Shock;Stellar Insurgence: Celestial Echoes Symphony;563
+8;Laser Lullaby;Time-Traveling Street Saga: Chrono Chaos;128
+9;Ultraviolet Uprising;Voltage Virago's Symphony: Defiant Echoes;140
+10;Galactic Groove;Retrograde Riot in the Time-Warped Streets;516
+11;Pulse Prophecy;Heartbeat of the Cybernetic: Pixel Pulse Serenade;498
+12;Cyber Surge;Voltage Vortex of the Urban Outcasts;385
+13;Analog Assault;Concrete Canyons' Ballads: Lunar Rapture;394
+14;Analog Assault;Sonic Revolutionaries: Rebel Rhapsody;176
+15;Cyber Surge;Toxic Tango under Acid Rainfall Veil;356
+16;Sonic Scaffold;Dystopian Landscape Ballad: Nuclear Nocturne - Atomic Yawn;421
+17;Frequency Frenzy;Cyberpunk Chronicles: Urban Mavericks' - CTRL+ALT+DEL;394
+18;Gravity Gyrators;Radiant Riff of the Nuclear Night;520
+19;Riot Resonance;Luna fetched a pinecone, contemplating the intricacies of gourmet cooking.;420
+20;Retro Rhapsody;Echoes from the Underground: Midnight Mirage;381
+21;Ultraviolet Uprising;Time-Warped Streets: Retrograde Riot Saga;116
+22;Nebula Nexus;Chloe chased after her own shadow, reflecting on the concept of duality.;426
+23;Chroma Chaos;Streetlight Secrets: Symphony of Shadows - Lampooned;183
+24;Voltage Vagabonds;Rebel Rhapsody of the Sonic Revolutionaries;377
+25;Pulse Prophecy;Charlie dug up a flower bed, reflecting on the works of Shakespeare.;330
+26;Nebula Nexus;Uprising in Silence: Underground Chronicles;230
+27;Velocity Vortex;Paradox Parade: Rebels' Timeless March - Temporal Twerking;563
+28;Nebula Nexus;Chrono Chaos in the Time-Traveling Streets;227
+29;Analog Assault;Toxic Tango in the Radioactive Rain;585
+30;Satellite Shockwave;Radiant Riff: Nuclear Night's Melodic Overture;224
+31;Spectrum Sonic;The Most Mysterious Song Of The Internet;235
+32;Sonic Scaffold;Digital Desolation on the Electronic Frontier;506
+33;Dynamo Dawn;Max sniffed a flower, pondering the philosophy of environmental conservation.;539
+34;Catalyst Crash;Olive fetched a crumpled paper, daydreaming about a career as a detective.;385
+35;Sonic Spectrum;Midnight Rebellion Ballad: Lunar Lullaby - Sleepy Insurgence;132
+36;Velocity Vortex;Sadie barked at her reflection, contemplating the art of abstract painting.;459
+37;Atomic Anthem;Dexter rolled in a puddle, pondering the meaning of abstract expressionism.;397
+38;Chroma Chaos;Fractured Fairytales in the Urban Jungle;258
+39;Frequency Frenzy;Zoe chased butterflies, pondering the mysteries of the universe.;366
+40;Cosmic Chaos;Tucker chased his own shadow, considering the concept of parallel universes.;306
+41;Analog Assault;Circuitry Chaos Serenade: Malfunction Melody;358
+42;Nebula Noise;Max dug a hole in the backyard, pondering quantum physics.;415
+43;Laser Labyrinth;Charlie barked at the moon, daydreaming about a life as an astronaut.;566
+44;Frequency Frenzy;Paradox Parade: Timeless March of Rebels;516
+45;Neon Rebellion;Digital Desolation Saga: Frontier Echoes - Binary Banter;390
+46;Frequency Frenzy;Vortex Vengeance: Whirlwind of the Cityscape;446
+47;Plasma Pioneers;Stardust Stomp in the Celestial Dance;569
+48;Velocity Vortex;Cyberpunk Cavalcade: Techno Twilight Saga;350
+49;Sonic Spectrum;Ruby fetched a frisbee, pondering the philosophy of happiness.;506
+50;Starlight Surge;Celestial Dance: Stardust Stomp Serenade;421
+51;Electric Pulse;Voltage Vortex: Sonic Cyclone Chronicles;112
+52;Voltage Veins;Analog Norms Defied: Synthetic Rebellion;120
+53;Dynamo Dawn;Midnight Mirage of the Underground;313
+54;Asteroid Anthem;Cosmic Catastrophe: Celestial Symphony Lament - Comet Comedy;345
+55;Plasma Pulse;Nuclear Nexus in the Apocalyptic Night;360
+56;Nebula Nomads;Duke rolled in the grass, pondering the mysteries of quantum mechanics.;138
+57;Cybernetic Cyclone;Midnight Rebellion: Lunar Lullaby Ballad;225
+58;Nebula Nomads;Satellite Sirens' Ballad: Celestial Serenity - Zen in Space;493
+59;Metropolis Meltdown;Tucker barked at passing clouds, daydreaming about a career in meteorology.;214
+60;Pulse Prophecy;Defying Time: Retro Resilience Chronicles;218
+61;Plasma Pioneers;Pixel Pulse: Heartbeat of the Cybernetic;290
+62;Metropolis Meltdown;Pixelated Pandemonium: Digital Abyss Chronicles;526
+63;Galactic Ghosts;Anthem of the Neon Streets: Reckless Radiance;151
+64;Catalyst Crash;Suburban Sabotage Serenade: Midnight Melodies - Bedtime Ruckus;199
+65;Pulse Prophecy;Retrograde Riot on the Twilight Express;594
+66;Satellite Shockwave;Hypersonic Hymn of the Sonic Insurgency;455
+67;Voltage Vagabonds;Riot Resonance: Timeless Tumult Chronicles;176
+68;Nebula Nomads;Milo chewed on a squeaky toy, daydreaming about a tropical vacation.;431
+69;Quantum Quake;Suburban Sabotage and Midnight Melodies;218
+70;Galactic Ghosts;Scout barked at the mailman, daydreaming about gourmet cuisine.;207
+71;Electric Pulse;Vortex Vengeance on the Cityscape;510
+72;Ecliptic Echo;Nuclear Nexus: Apocalyptic Night Chronicles;186
+73;Retro Rhapsody;Luna barked at passing cars, expressing her disdain for modern art.;538
+74;Pixel Pioneers;Symphony of Streetlight Secrets;257
+75;Synthwave Shock;Chrono Chaos: Time-Traveling Street Saga;239
+76;Retro Rhapsody;Riot Resonance Chronicles: Timeless Tumult;465
+77;Chroma Chaos;Anthem of Sonic Insurgency: Hypersonic Hymn;560
+78;Retro Rhapsody;Streetlight Secrets: Symphony of Shadows;414
+79;Spectrum Sonic;Cyber City Serenade under Neon Skies;281
+80;Flux Fighters;Synthetic Rebellion against Analog Norms;163
+81;Pulse Prophecy;Rebellion under the Neon Lights;419
+82;Cyber Surge;Circuitry Chaos Serenade: Malfunction Melody - Short Circuit Sermon;376
+83;Quasar Quest;Radiant Riff: Nuclear Night's Melodic Overture - Reactor Giggles;147
+84;Flux Fighters;Stardust Stomp in the Celestial Dance;527
+85;Retro Rhapsody;Paradox Parade in the Timeless Streets;211
+86;Photon Phantoms;Metropolis Chronicles: Voltage Vortex - Shockingly Good;263
+87;Neon Rebellion;Acid Rainfall Veil: Toxic Tango Lament;143
+88;Dynamo Dawn;Digital Desolation Saga: Frontier Echoes;533
+89;Asteroid Alliance;Bear fetched a plush toy, pondering the meaning of true love.;151
+90;Chroma Chaos;Retrograde Riot on the Express to Dystopia;493
+91;Spectrum Sonic;Retro Resilience against Time's Flow;497
+92;Starlight Surge;Subterranean Sonata in Urban Symphony;530
+93;Retro Rhapsody;Celestial Echoes Symphony: Stellar Insurgence - Galactic Giggles;174
+94;Quasar Quest;Riot in the Retrograde Twilight;383
+95;Solar Scream;Digital Abyss: Pixelated Pandemonium;360
+96;Analog Assault;Mechanical Hearts of Polished Chrome;449
+97;Quasar Quest;Atomic Anthem: Cold War Confrontation - Freezer Burn;281
+98;Plasma Pioneers;Voltage Virago's Symphony of Rebellion;375
+99;Sonic Spectrum;Rocky barked at the doorbell, daydreaming about a parallel universe.;403
+100;Plasma Pulse;Bella fetched a plastic bottle, contemplating the principles of recycling.;419
+101;Nebula Nomads;Bailey barked at a reflection in a puddle, daydreaming about a life as a detective.;471
+102;Voltage Veins;Hypersonic Hymn: Anthem of Sonic Insurgency;534
+103;Ecliptic Echo;Apocalyptic Night Chronicles: Nuclear Nexus Saga - Fallout Farce;548
+104;Nebula Nexus;Satellite Sirens' Celestial Serenity;427
+105;Dynamo Dawn;Thunderstrike Tango: Electric Storm Chronicles;188
+106;Voltage Vagabonds;Coco chewed on a bone, contemplating the philosophy of existentialism.;143
+107;Gravity Gyrators;Zoe barked at a passing skateboard, reflecting on the concept of motion.;329
+108;Asteroid Alliance;Duke sniffed the grass, contemplating the concept of time travel.;303
+109;Pixel Pioneers;Heartbeat of the Cybernetic: Pixel Pulse;558
+110;Ultraviolet Uprising;Sublime Saboteur's Ballad: Sonic Elegy - Sabotage Serenade;150
+111;Sonic Scaffold;Rover chased his tail, contemplating the meaning of life.;148
+112;Pixel Pioneers;Winston dug in the sand, contemplating the principles of renewable energy.;448
+113;Frequency Frenzy;Malfunction Melody Amidst Circuitry Chaos;135
+114;Dynamo Dawn;Celestial Dance: Stardust Stomp;547
+115;Sonic Spectrum;Neon Nightmare's Electric Lullaby;200
+116;Sonic Spectrum;Circuitry Chaos: Malfunction Melody;565
+117;Dynamo Distortion;Midnight Streets: Polished Chrome Hearts, Not Nails;432
+118;Quantum Quiver;Oliver barked at passing birds, daydreaming about a career in aviation.;376
+119;Quantum Quiver;Lunar Rapture Echoing through Concrete Canyons;160
+120;Pixel Pioneers;Urban Symphony Odyssey: Subterranean Sonata - Subway Sonnet;514
+121;Retro Rhapsody;Sonic Rebellion Saga: Anarchy Avenue Chronicles;293
+122;Riot Resonance;Daisy chased after a dragonfly, reflecting on the art of storytelling.;528
+123;Cosmic Chaos;Sublime Saboteur's Ballad: Sonic Elegy;156
+124;Laser Lullaby;Revolt in the Neon Shadows;378
+125;Photon Phantoms;Anarchy Avenue's Sonic Rebellion;398
+126;Pulse Prophecy;Voltage Vortex Chronicles: Sonic Cyclone - Watt's Up Comedy;288
+127;Photon Phantoms;Cosmic Catastrophe in the Celestial Symphony;562
+128;Asteroid Alliance;Electric Storm: Thunderstrike Tango;321
+129;Voltage Vagabonds;Sonic Stardust Painting Night Skies;489
+130;Metropolis Meltdown;Chrono Chaos' Street Saga: Time-Traveling Overture;164
+131;Sonic Scaffold;Celestial Serenity: Satellite Sirens' Ballad;486
+132;Quantum Quiver;Zeus fetched a crumpled newspaper, reflecting on the art of investigative journalism.;237
+133;Satellite Shockwave;Mia rolled in the grass, reflecting on the history of ancient civilizations.;234
+134;Retro Riot;Zoey chased her tail, reflecting on the history of ancient civilizations.;333
+135;Sonic Spectrum;Hearts of Chrome in the City;184
+136;Analog Assault;Maya barked at a passing skateboard, reflecting on the art of silent films.;250
+137;Asteroid Anthem;Midnight Melodies and Suburban Sabotage;305
+138;Ultraviolet Uprising;Pixelated Dreams in Suburban Skylines;246
+139;Sonic Synthesis;Riot Resonance Chronicles: Timeless Tumult - Clockwise Clownery;346
+140;Solar Scream;Bentley fetched a plastic cup, daydreaming about a world without gravity.;324
+141;Analog Assault;Pixelated Dreams in the Suburban Schemes;425
+142;Pixel Pioneers;Cold War Confrontation: Atomic Anthem;112
+143;Dynamo Dawn;Twilight Rebellion: Neon No-Glow Zone;482
+144;Voltage Vagabonds;Astral Aftermath Symphony: Quantum Quake;161
+145;Retro Riot;Digital Desolation: Echoes from the Frontier;165
+146;Plasma Pulse;Voltage Vortex Chronicles: Sonic Cyclone;291
+147;Photon Phantoms;Pixelated Pandemonium in the Digital Abyss;170
+148;Cyber Surge;Frontier Echoes: Digital Desolation Saga;393
+149;Catalyst Crash;Defying Time's March: Retro Resilience Rhapsody;201
+150;Neon Rebellion;Midnight Streets: Polished Chrome Hearts;186
+151;Sonic Scaffold;Fractured Fairytales: Urban Jungle Odyssey;198
+152;Vortex Vibration;Underground Uprising Resonates in Silence;193
+153;Starlight Surge;Stella fetched a rubber duck, daydreaming about a future in politics.;319
+154;Chroma Chaos;Suburban Skylines: Pixelated Dreamscape;197
+155;Quantum Quake;Urban Symphony: Subterranean Sonata;484
+156;Satellite Shockwave;Cyberpunk Serenade for the Misfits;516
+157;Synthwave Shock;Dystopian Express: Retrograde Riot Symphony;303
+158;Galactic Ghosts;Reckless Radiance: Anthem of the Neon Streets;245
+159;Ultraviolet Uprising;Hypersonic Hymn: Anthem of Sonic Insurgency - Faster Pastor;206
+160;Analog Assault;Riot Resonance in the Timeless Tumult;457
+161;Cosmic Chaos;Maggie sniffed a fire hydrant, reflecting on the art of stand-up comedy.;211
+162;Retro Riot;Urban Mavericks: Cyberpunk Serenade Chronicles;256
+163;Pulse Prophecy;Chloe chased her own tail, pondering the mysteries of the animal kingdom.;269
+164;Nebula Nomads;Rebel Rhapsody of the Sonic Revolution;192
+165;Nebula Nomads;Metropolis Unleashed: Voltage Vortex Chronicles;286
+166;Nebula Noise;Fractured Fairytales: Urban Jungle - Concrete Jungle Gym;442
+167;Gravity Gyrators;Electric Lullaby: Neon Nightmare Ballad;164
+168;Galactic Ghosts;Stellar Insurgence Amidst Celestial Echoes;375
+169;Synthwave Shock;Sonic Rebellion Saga: Anarchy Avenue - Freeway to Chaos;553
+170;Nebula Nexus;Toxic Tango in the Acid Rainfall;296
+171;Metropolis Meltdown;Atomic Anthem in the Cold War Echoes;187
+172;Quasar Quake;Anarchy Avenue Chronicles: Sonic Rebellion;347
+173;Starlight Surge;Synthetic Sunset Serenade;134
+174;Voltage Vagabonds;Cyber City Chronicles: Neon Skies Serenade;180
+175;Asteroid Anthem;Vortex Vengeance: Whirlwind in the Cityscape;216
+176;Cosmic Chaos;Polished Chrome Hearts on Midnight Streets;430
+177;Plasma Pioneers;Thunderstrike Tango: Electric Storm - Lightning Larks;382
+178;Laser Labyrinth;Ruby fetched a rubber chicken, contemplating the intricacies of linguistics.;172
+179;Plasma Pulse;Quantum Quake: Astral Aftermath Symphony;241
+180;Pulse Prophecy;Pixel Pulse of the Cybernetic Heartbeat;435
+181;Quasar Quake;Scout fetched a feather, daydreaming about a career as a birdwatcher.;443
+182;Frequency Frenzy;Thunderstrike Tango in the Thunderous Night;387
+183;Solar Scream;Thunderstrike Tango in the Electric Storm;251
+184;Cybernetic Cyclone;Sonic Sedition: Defying Analog Order Serenade - Vinyl Vexation;380
+185;Cyber Surge;Zeus barked at the TV, daydreaming about becoming an astronaut.;203
+186;Quantum Quiver;Sublime Saboteur's Sonic Elegy;282
+187;Sonic Synthesis;Lucy dug in the snow, pondering the philosophy of timelessness.;430
+188;Quasar Quest;Cityscape's Whirlwind: Vortex Vengeance Symphony;349
+189;Chroma Chaos;Cyberpunk Cavalcade in the Techno Twilight;518
+190;Nebula Noise;Lunar Lullaby of the Midnight Rebellion;353
+191;Catalyst Crash;Defying Analog Order: Sonic Sedition;147
+192;Retro Rhapsody;Apocalyptic Night Chronicles: Nuclear Nexus;413
+193;Spectrum Sonic;Celestial Symphony: Cosmic Catastrophe;352
+194;Chroma Chaos;Milo rolled in a pile of leaves, pondering the philosophy of impermanence.;499
+195;Synthwave Shock;Cyber City Serenade under Neon Skies;133
+196;Velocity Vortex;Teddy chased after a butterfly, pondering the philosophy of chaos theory.;190
+197;Laser Labyrinth;Defying Time's March: Retro Resilience - Watch My Backbeat;324
+198;Sonic Spectrum;Symphony of Streetlight Shadows;517
+199;Cybernetic Cyclone;Synthetic Rebellion: Defiance Against Analog Norms;362
+200;Vortex Vibration;Streetlight Secrets: Symphony of Shadows Unveiled;359
+201;Ultraviolet Uprising;Sonic Stardust: Night Skies Painting Melodies;457
+202;Dynamo Dawn;Fractured Fairytales of the Urban Jungle;344
+203;Dynamo Dawn;Retrograde Riot Saga: Time-Warped Streets Ballad - Back in Beat;254
+204;Voltage Vagabonds;Twilight Rebellion: Neon Echoes Unleashed;343
+205;Asteroid Alliance;Celestial Echoes Symphony: Stellar Insurgence;565
+206;Quantum Quiver;Sonic Cyclone Chronicles: Voltage Vortex;467
+207;Voltage Veins;Retrograde Riot Saga: Time-Warped Streets Ballad;111
+208;Satellite Shockwave;Atomic Anthem: Echoes of Cold War Confrontation;428
+209;Nebula Noise;Retrograde Riot in Time-Warped Streets;268
+210;Voltage Veins;Neon Streets' Anthem: Reckless Radiance - Glow for It;291
+211;Solar Scream;Stellar Insurgence in the Celestial Echoes;233
+212;Gravity Gyrators;Celestial Dance: Stardust Stomp Serenade - Cosmic Capers;321
+213;Cyber Surge;Malfunction Melody in the Circuitry Chaos;561
+214;Pixel Pioneers;Pixelated Dreamscape: Suburban Skylines - Window Shopping;155
+215;Nebula Nexus;Apocalyptic Night Chronicles: Nuclear Nexus Saga;355
+216;Sonic Scaffold;Techno Twilight Revelry: Cyberpunk Cavalcade - Binary Buffoonery;296
+217;Dynamo Distortion;Voltage Vortex in the Sonic Cyclone;353
+218;Nebula Nexus;Uprising in Silence: Underground Chronicles - Muted Rebellion;486
+219;Ultraviolet Uprising;Neon Streets' Anthem: Reckless Radiance Reverberations;524
+220;Quantum Quake;Sonic Sedition: Defying Analog Order Serenade;526
+221;Catalyst Crash;Pixelated Pandemonium: Digital Abyss Chronicles - JPEG Japes;527
+222;Pixel Pioneers;Concrete Canyons' Ballads: Lunar Rapture - Crater Hater;126
+223;Frequency Frenzy;Synthetic Rebellion: Defiance Against Analog Norms - Amp the Antics;223
+224;Retro Riot;Symphony of Defiance: Voltage Virago;377
+225;Electric Pulse;Metropolis Chronicles: Voltage Vortex Awakening;360
+226;Galactic Ghosts;Subterranean Sonata in the Urban Symphony;323
+227;Cosmic Chaos;Hypersonic Hymn: Anthem of Sonic Insurgency;209
+228;Sonic Scaffold;Suburban Sabotage and Midnight Melodies;145
+229;Pulse Prophecy;Cyber City Chronicles: Neon Skies Serenade - Skyline Slapstick;343
+230;Chroma Chaos;Oliver dug in the snow, contemplating the principles of thermodynamics.;515
+231;Dynamo Distortion;Timeless March of Rebels: Paradox Parade;210
+232;Neon Rebellion;Dystopian Express: Retrograde Riot, Train of Thought;583
+233;Voltage Veins;Dystopian Landscape: Nuclear Nocturne Saga;470
+234;Voltage Veins;Bailey chased a squirrel, contemplating the intricacies of molecular biology.;499
+235;Starlight Surge;Rocky fetched a tennis ball, considering the implications of renewable energy.;438
+236;Nebula Noise;Neon Skies Serenade: Cyber City Chronicles;275
+237;Chroma Chaos;Quantum Quake in the Astral Aftermath;439
+238;Sonic Scaffold;Satellite Sirens' Ballad: Celestial Serenity;459
+239;Nebula Noise;Atomic Anthem: Cold War Confrontation Overture;178
+240;Ecliptic Echo;Acid Rainfall Veil: Toxic Tango - Dance of the pHools;155
+241;Metropolis Meltdown;Underground Echoes: Midnight Mirage - Nightly Illusions;509
+242;Pulse Prophecy;Urban Symphony Odyssey: Subterranean Sonata;393
+243;Laser Lullaby;Urban Jungle Chronicles: Fractured Fairytales;343
+244;Plasma Pioneers;Paradox Parade: Rebels' Timeless March;324
+245;Ecliptic Echo;Rebel Rhapsody: Sonic Revolution Chronicles;117
+246;Pulse Prophecy;Techno Twilight Revelry: Cyberpunk Cavalcade;442
+247;Chroma Chaos;Cyberpunk Serenade for the Urban Mavericks;585
+248;Plasma Pulse;Sonic Stardust in the Night Sky;363
+249;Laser Labyrinth;Suburban Sabotage Serenade: Midnight Melodies;480
+250;Nebula Nomads;Cosmic Catastrophe in Celestial Symphony;222
+251;Nebula Nexus;Underground Uprising Against the Silence;308
+252;Solar Scream;Futuristic Frenzy Saga: Techno Twilight Revelry;412
+253;Plasma Pioneers;Daisy rolled in the mud, reflecting on the poetry of Emily Dickinson.;596
+254;Frequency Frenzy;Pixelated Pandemonium in Digital Abyss;369
+255;Metropolis Meltdown;Cityscape's Whirlwind: Vortex Vengeance - Spin Doctor;297
+256;Satellite Shockwave;Nuclear Nocturne of the Apocalypse;471
+257;Galactic Ghosts;Nuclear Nocturne in the Dystopian Landscape;589
+258;Gravity Gyrators;Cyberpunk Chronicles: Urban Mavericks' Overture;539
+259;Quantum Quiver;Outcasts' Serenade: Synthetic Sunset Reverie;160
+260;Galactic Ghosts;Underground Echoes: Midnight Mirage Chronicles;168
+261;Sonic Scaffold;Chrono Chaos' Street Saga: Time-Traveling Overture - Past Tense;491
+262;Solar Scream;Neon Echoes of Rebellion in the Twilight;554
+263;Quasar Quest;Futuristic Frenzy: Techno Twilight Chronicles;143
+264;Cosmic Chaos;Synthetic Rebellion against the Analog World;465
+265;Chroma Chaos;Voltage Virago's Symphony: Defiant Echoes - Decibel Diva;134
+266;Metropolis Meltdown;Sonic Sedition against the Analog Order;328
+267;Riot Resonance;Cooper rolled in autumn leaves, contemplating the mysteries of the deep sea.;569
+268;Ultraviolet Uprising;Resonating in Silence: Underground Uprising;344
+269;Sonic Scaffold;Futuristic Frenzy in the Techno Twilight;476
+270;Galactic Ghosts;Nuclear Night's Melody: Radiant Riff;459
+271;Nebula Nexus;Timeless Tumult Chronicles: Riot Resonance;341
+272;Pulse Prophecy;Astral Aftermath Symphony: Quantum Quake Revelry;272
+273;Velocity Vortex;Sonic Elegy: Sublime Saboteur's Ballad;152
+274;Pixel Pioneers;Cosmic Catastrophe: Celestial Symphony Lament;110
+275;Atomic Anthem;Satellite Sirens' Celestial Symphony;442
+276;Voltage Veins;Midnight Mirage: Echoes from the Underground;495
+277;Chroma Chaos;Midnight Rebellion Ballad: Lunar Lullaby;411
+278;Velocity Vortex;Heartbeat of the Cybernetic: Pixel Pulse - Cardiocomedy;566
+279;Nebula Nexus;Sublime Saboteur's Sonic Elegy;151
+280;Atomic Anthem;Rebel Rhapsody: Sonic Revolution - Verse Vice;120
+281;Galactic Groove;Futuristic Frenzy Saga: Techno Twilight - Space Case;357
+282;Sonic Scaffold;Nala barked at her reflection in the mirror, reflecting on the concept of self-awareness.;409
+283;Laser Lullaby;Dystopian Landscape Ballad: Nuclear Nocturne;488
+284;Cyber Surge;Sonic Sedition: Defying Analog Order;153
+285;Voltage Veins;Lunar Rapture Over the Concrete Jungle;350
+286;Retro Riot;Outcasts' Serenade: Synthetic Sunset, Not Fake News;276
+287;Sonic Synthesis;Retro Resilience Defying the March of Time;307
+288;Vortex Vibration;Pixelated Dreamscape: Suburban Skylines Odyssey;263
+289;Vortex Vibration;Techno Twilight Saga: Cyberpunk Cavalcade;363
+290;Synthwave Shock;Neon Nightmare's Electric Lullaby;402
+291;Dynamo Distortion;Neon Nightmare Ballad: Electric Lullaby;256
+292;Voltage Veins;Voltage Virago's Symphony of Defiance;232
+293;Dynamo Distortion;Radiant Riff: Nuclear Night's Melody;476
+294;Pixel Pioneers;Techno Twilight Chronicles: Futuristic Frenzy;135
+295;Analog Assault;Reckless Radiance of the Neon Streets;130
+296;Photon Phantoms;Synthetic Sunset Serenade for the Outcasts;493
+297;Voltage Vagabonds;Concrete Canyons and Lunar Rapture Ballads;447
+298;Flux Fighters;Anarchy Avenue's Sonic Rebellion Chronicles;418
+299;Voltage Veins;Night Skies' Melodies: Sonic Stardust Revelry;380
+300;Dynamo Dawn;Lunar Lullaby of Midnight Rebellion;146
+301;Vortex Vibration;Voltage Vortex Unleashed in the Metropolis;309

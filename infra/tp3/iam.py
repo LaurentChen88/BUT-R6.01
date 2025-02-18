@@ -8,7 +8,9 @@ students_role = projects.IAMCustomRole(
     role_id='students',
     title='Students',
     permissions=[
-        'storage.buckets.list'
+        'resourcemanager.projects.get',
+        'storage.buckets.list',
+        'bigquery.jobs.create'
     ]
 )
 

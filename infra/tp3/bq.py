@@ -1,8 +1,9 @@
+import json
 import re
 
 from pulumi_gcp import bigquery
 
-from tp3.config import STUDENTS_GROUP, ADMIN_ACCOUNT, STUDENT_ACCOUNTS
+from tp3.config import PROJECT, STUDENTS_GROUP, ADMIN_ACCOUNT, STUDENT_ACCOUNTS
 
 
 shared_dataset = bigquery.Dataset(
@@ -13,6 +14,53 @@ shared_dataset = bigquery.Dataset(
         {'role': 'READER', 'group_by_email': STUDENTS_GROUP}
     ]
 )
+
+
+JOIN_VECTORS_BODY = f'''
+    SELECT x, vec2[SAFE_OFFSET(position)] AS y
+    FROM UNNEST(vec1) AS x WITH OFFSET AS position
+'''
+
+FLOAT64_ARRAY_TYPE = json.dumps({
+    'typeKind': 'ARRAY',
+    'arrayElementType': {
+        'typeKind': 'FLOAT64'
+    }
+})
+
+bigquery.Routine(
+    'join_vectors',
+    dataset_id=shared_dataset.dataset_id,
+    routine_id='join_vectors',
+    routine_type='TABLE_VALUED_FUNCTION',
+    language='SQL',
+    definition_body=JOIN_VECTORS_BODY,
+    arguments=[
+        {
+            'name': 'vec1',
+            'argument_kind': 'FIXED_TYPE',
+            'data_type': FLOAT64_ARRAY_TYPE
+        },
+        {
+            'name': 'vec2',
+            'argument_kind': 'FIXED_TYPE',
+            'data_type': FLOAT64_ARRAY_TYPE
+        }
+    ],
+    return_table_type=json.dumps({
+        'columns': [
+            {
+                'name': 'x',
+                'type': {'typeKind': 'FLOAT64'}
+            },
+            {
+                'name': 'y',
+                'type': {'typeKind': 'FLOAT64'}
+            }
+        ]
+    })
+)
+
 
 
 for account in STUDENT_ACCOUNTS:

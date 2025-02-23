@@ -11,3 +11,5 @@ STUDENT_ACCOUNTS = [
 ] + [ADMIN_ACCOUNT]
 
 STUDENT_ACCOUNTS = STUDENT_ACCOUNTS[-3:]
+
+SOURCE_DATA_DIR = '../../vectors/final_output'

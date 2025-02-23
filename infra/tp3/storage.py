@@ -1,16 +1,25 @@
 import glob
 import os
+import re
 
 import pulumi
 from pulumi_gcp import storage
 
-from tp3.config import STUDENTS_GROUP
+from tp3.config import STUDENTS_GROUP, STUDENT_ACCOUNTS, SOURCE_DATA_DIR
 
 
 bucket = storage.Bucket(
-    'but-tp-shazam-data',
-    name='but-tp-shazam-data',
+    'but-tp-shazam-datalake',
+    name='but-tp-shazam-datalake',
     location='europe-west9'
+)
+
+
+storage.BucketIAMBinding(
+    'shazam-datalake-binding',
+    bucket=bucket.name,
+    role="roles/storage.objectViewer",
+    members=['group:' + STUDENTS_GROUP],
 )
 
 
@@ -18,12 +27,12 @@ storage.BucketObject(
     'metadata.csv',
     name='metadata.csv',
     bucket=bucket.name,
-    source=pulumi.FileAsset('tp3/data/metadata.csv')
+    source=pulumi.FileAsset(os.path.join(SOURCE_DATA_DIR, 'metadata.csv'))
 )
 
 
-for vector_file_name in glob.glob('tp3/data/*.jsonl'):
-    object_name = os.path.join('songs', os.path.basename(vector_file_name))
+for vector_file_name in glob.glob(os.path.join(SOURCE_DATA_DIR, 'vectors_*.jsonl')):
+    object_name = os.path.join('tracks', os.path.basename(vector_file_name))
     storage.BucketObject(
         object_name,
         name=object_name,
@@ -32,12 +41,26 @@ for vector_file_name in glob.glob('tp3/data/*.jsonl'):
     )
 
 
-storage.BucketIAMBinding(
-    'shazam-data-binding',
+storage.BucketObject(
+    'queries.jsonl',
+    name='queries/queries.jsonl',
     bucket=bucket.name,
-    role="roles/storage.objectViewer",
-    members=['group:' + STUDENTS_GROUP],
+    source=pulumi.FileAsset(os.path.join(SOURCE_DATA_DIR, 'queries.jsonl'))
 )
 
 
-pulumi.export('shazam_data_url', bucket.url)
+'''
+for account in STUDENT_ACCOUNTS:
+    account_bucket_name = 'but-tp-shazam' + re.sub(r'@.*', '', account)
+    account_bucket = storage.Bucket(
+        account_bucket_name,
+        name=account_bucket_name,
+        location='europe-west9'
+    )
+    storage.BucketIAMBinding(
+        f'shazam-{account_bucket_name}-binding',
+        bucket=account_bucket.name,
+        role="roles/storage.objectUser",
+        members=['user:' + account],
+    )
+'''

@@ -10,6 +10,6 @@ STUDENT_ACCOUNTS = [
     for number in range(1, 11)
 ] + [ADMIN_ACCOUNT]
 
-STUDENT_ACCOUNTS = STUDENT_ACCOUNTS[-3:]
+#STUDENT_ACCOUNTS = STUDENT_ACCOUNTS[-3:]
 
 SOURCE_DATA_DIR = '../../vectors/final_output'

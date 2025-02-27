@@ -16,7 +16,7 @@ main:
                 - print:
                     call: sys.log
                     args:
-                        text: ${file_to_process.mediaLink}
+                        text: ${file_to_process.name}
                 - process_file:
                     call: http.post
                     args:
@@ -29,5 +29,5 @@ main:
                     call: googleapis.storage.v1.objects.insert
                     args:
                         bucket: ### A CHANGER ###
-                        name: vectors/${file_to_process.name}
-                        body: ${embedding_json}
+                        name: ${"vectors/" + file_to_process.name + ".json"}
+                        body: ${embedding_json.body}

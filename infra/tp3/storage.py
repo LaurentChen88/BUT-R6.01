@@ -47,20 +47,3 @@ storage.BucketObject(
     bucket=bucket.name,
     source=pulumi.FileAsset(os.path.join(SOURCE_DATA_DIR, 'queries.jsonl'))
 )
-
-
-'''
-for account in STUDENT_ACCOUNTS:
-    account_bucket_name = 'but-tp-shazam' + re.sub(r'@.*', '', account)
-    account_bucket = storage.Bucket(
-        account_bucket_name,
-        name=account_bucket_name,
-        location='europe-west9'
-    )
-    storage.BucketIAMBinding(
-        f'shazam-{account_bucket_name}-binding',
-        bucket=account_bucket.name,
-        role="roles/storage.objectUser",
-        members=['user:' + account],
-    )
-'''

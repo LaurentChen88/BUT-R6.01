@@ -1,1 +1,3 @@
-from tp3 import iam, storage, bq
+import iam
+from tp3 import storage, bq
+from tp4 import storage

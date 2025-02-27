@@ -29,5 +29,5 @@ def process_file(request):
 
     return {
         'base_name': os.path.basename(object_name),
-        'embeddings': embeddings
+        'embeddings': list(map(list, embeddings.numpy()))
     }

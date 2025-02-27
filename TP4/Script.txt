@@ -1,0 +1,45 @@
+SCRIPT
+
+- se connecter
+- accepter les CGU
+- choisir projet BUT-TP ("Aucune organisation")
+- naviguer dans GCS
+    - aller dans le bucket du binome
+    - créer répertoire mp3
+    - télécharger fichiers depuis repo github (étape 0)
+    - naviguer et déposer 2-3 fichiers
+- aller dans workflows
+    - create
+        - nom = workflow-binome_xxx
+        - region = europe-west9
+        - sa = default GCE
+        - activer l'historique détaillé
+        - next
+        - tune & paste yaml (étape 1 github)
+        - deploy
+    - run
+        - regarder étape et voir la sortie
+            - copier/coller un item dans un éditeur
+- ajouter loop & print (étape 2 github)
+    - run
+    - aller dans les journaux
+- naviguer vers "cloud run functions"
+    - créer une fonction
+        - inline editor
+        - nom = embedding-binome_xxx
+        - region
+        - copier l'URL du endpoint
+        - python 3.10
+        - ingress public
+        - nb max simultanées : 5
+        - nb max d'instances : 1
+        - 2 Go RAM
+        - code + entrypoint
+        - coller requirements.txt & main.py (étape 3 github)
+        - déployer
+        - attendre...
+        - tester avec un item de workflow (cloud shell)
+            - si nécessaire, se réauthentifier et retenter
+- modifier le workflow (étape 4)
+    - run
+    - aller voir dans GCS
